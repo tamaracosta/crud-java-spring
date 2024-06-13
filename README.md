@@ -37,6 +37,8 @@ DELETE / - Deletar dado ou torná-lo inativo.
 ```
 
 ## Database
-O projeto utiliza PostgresSQL como banco de dados. Migrations são feitas com Flyway.
+- O projeto utiliza PostgresSQL como banco de dados. Migrations são feitas com Flyway.
+- Utilizado DBeaver para visualização e manipulação dos dados.
+- Utilizado Postman para realizar requisições do CRUD.
 
-To [install PostgresSQL])(https://www.postgresql.org/download/) you can install here.
+
