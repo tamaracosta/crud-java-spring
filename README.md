@@ -1,6 +1,12 @@
 # Simple CRUD
 Este repositório contém um projeto CRUD simples construído usando Java Spring. O objetivo deste repositório é praticar e compartilhar como pode construir todos os métodos CRUD usando Java Spring.
+- Dentro da pasta resources, crie um arquivo **application.properties** para colocar a configuração para conectar ao seu banco de dados:
 
+  ```
+  spring.datasource.url=jdbc:postgresql://localhost:5432/product
+  spring.datasource.username=postgres
+  spring.datasource.password=password
+  ```
 ## Table of Contents
 
 - [Installation](#installation)
